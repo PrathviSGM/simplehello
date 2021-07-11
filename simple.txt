@@ -5,3 +5,5 @@ Welcome to SGM
 
 C
 Java
+Python
+SQL
